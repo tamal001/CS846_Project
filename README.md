@@ -1,0 +1,1 @@
+This project used deep neural network containing two hidden layers to identify different spatial factors influencing the spreading of Covid-19. The data for the public health units of Ontario, Canada has been collected. The source of the data it Statistics Canada, census 2016.
